@@ -4,7 +4,7 @@
 
 I love turning raw data into models and insights that solve real problems. I trained in data science through the **DEBI Data Science & Cloud Computing diploma** and a **data science traineeship at Corelia**, and I hold a **BSc in Computer Science** from Helwan University.
 
-Day to day, I work with live business data at Bluebell Pharmaceuticals, connecting **NetSuite, Shopify, and CRM systems** and building the automated pipelines between them. That work taught me how data is created, moved, and used in production.
+Day to day, I work with live business data, connecting **NetSuite, Shopify, and CRM systems** and building the automated pipelines between them. That work taught me how data is created, moved, and used in production.
 
 ### 🔭 What I work on
 - 🧠 **Machine learning & deep learning**: computer vision, NLP, predictive modeling
